@@ -2,7 +2,9 @@ import './Main.css'
 function Main(){
     return(
         <main>
-           maiza linda
+           <div>
+            <h3> Oi, eu sou a Maíza Bianca. Eu não faço nada</h3>
+           </div>
         </main>
     )
 }

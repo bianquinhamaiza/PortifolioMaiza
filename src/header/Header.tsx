@@ -3,8 +3,8 @@ import Logo from '../assets/logo.bianca.png'
 function Header(){
     return(
         <header>
-            <div>
-            <img src={Logo} alt="" />
+            <div className='logoheader'>
+            <img className='logo1' src={Logo} alt="" />
             </div>
             <nav>
                 <ul>

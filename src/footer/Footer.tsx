@@ -7,19 +7,19 @@ function Footer(){
         <footer>
       <div id='footer_content'>
         <div id='footer_contats'>
-        <img src={Logo} alt="" />
+        <img className='logo2' src={Logo} alt="" />
                   </div>
       
       
           <ul className="footer-list">
             <li>
-            <h3>Sobre a Barbie</h3>
+            <h3>Sobre Mim</h3>
             </li>
             <li>
-            <a href="#" className="footer-link">Quais suas profissões?</a>
+            <a href="#" className="footer-link">Características</a>
             </li>
             <li>
-            <a href="#" className="footer-link">História da Barbie</a>
+            <a href="#" className="footer-link">Gostos</a>
             </li>
             <li>
             <a href="#" className="footer-link">Curiosidades</a>
@@ -30,13 +30,13 @@ function Footer(){
             <h3>Menu</h3>
             </li>
             <li>
-            <a href="#" className="footer-link">Filmes</a>
+            <a href="#" className="footer-link">Filmes Favoritos</a>
             </li>
             <li>
             <a href="#" className="footer-link">Acessórios</a>
             </li>
              <li>
-            <a href="#" className="footer-link">Bonecas</a>
+            <a href="#" className="footer-link">Roupas</a>
             </li>
           </ul>
           <ul className="footer-list">
