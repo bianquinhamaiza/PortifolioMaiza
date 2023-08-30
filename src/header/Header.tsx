@@ -8,10 +8,10 @@ function Header(){
             </div>
             <nav>
                 <ul>
-                    <li><a href="#">Tere</a></li>
-                    <li><a href="#">Careca</a></li>
-                    <li><a href="#">Pobre</a></li>
-                    <li><a href="#">Coitado</a></li>
+                    <li><a href="#">Sobre</a></li>
+                    <li><a href="#">Trabalhos</a></li>
+                    <li><a href="#">Contato</a></li>
+                    <li><a href="#">Ajuda</a></li>
                 </ul>
             </nav>
         </header>

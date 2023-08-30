@@ -8,9 +8,9 @@ header{
 header nav ul li a{
     text-decoration: none;
     padding: 15px;
-    border: 1px solid rgb(0, 169, 236);
+    border: 2px solid rgb(200, 134, 238);
     color: white;
-    border-radius: 20px;
+    border-radius: 60px;
 }
 header nav ul{
     display: flex;
@@ -18,11 +18,6 @@ header nav ul{
     gap: 15px;
     
 }
-
-.logoheader{
-
-}
-
 .logo1{
     width: 230px;
     padding-top: 10px;

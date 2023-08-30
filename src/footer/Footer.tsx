@@ -13,7 +13,7 @@ function Footer(){
       
           <ul className="footer-list">
             <li>
-            <h3>Sobre Mim</h3>
+            <h3>Menu</h3>
             </li>
             <li>
             <a href="#" className="footer-link">Características</a>
@@ -27,16 +27,16 @@ function Footer(){
           </ul>
           <ul className="footer-list">
             <li>
-            <h3>Menu</h3>
+            <h3>Sobre Mim</h3>
             </li>
             <li>
             <a href="#" className="footer-link">Filmes Favoritos</a>
             </li>
             <li>
-            <a href="#" className="footer-link">Acessórios</a>
+            <a href="#" className="footer-link">Amigos</a>
             </li>
              <li>
-            <a href="#" className="footer-link">Roupas</a>
+            <a href="#" className="footer-link">Comidas Favoritas</a>
             </li>
           </ul>
           <ul className="footer-list">

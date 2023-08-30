@@ -6,3 +6,15 @@ img{
     width: 300px;
     height: auto;
 }
+.texto1{
+    width: 330px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.foto{
+    padding-right: 130px;
+}
+.tudo{
+    display: flex;
+    justify-content: space-between;
+}
