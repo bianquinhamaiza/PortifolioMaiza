@@ -1,0 +1,18 @@
+ .filme_content{
+    padding: 50px;
+    box-shadow: 0px 0px 10px 4px rgba(0,0,0,0.1);
+    overflow: hidden;
+    background-color:rgb(128, 207, 253);
+}
+.filme_content>img{
+    width: 100%;
+}
+.foto_filme{
+    min-height: 250px;
+}
+.foto_filme>img{
+    width: 100%;
+}
+.sinopse{
+    text-align: justify;
+} 
