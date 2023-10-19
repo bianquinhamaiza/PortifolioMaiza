@@ -1,17 +1,25 @@
 import './Header.css'
-import Logo from '../assets/logo.bianca.png'
+import { Link } from 'react-router-dom'
 function Header(){
     return(
         <header>
-            <div className='logoheader'>
-            <img className='logo1' src={Logo} alt="" />
+            <div>
+            <Link to="/"><img src='/logo.bianca.png'/></Link>
             </div>
             <nav>
                 <ul>
-                    <li><a href="#">Sobre</a></li>
-                    <li><a href="#">Trabalhos</a></li>
-                    <li><a href="#">Contato</a></li>
-                    <li><a href="#">Ajuda</a></li>
+                    <li>
+                        <Link to="/">Página Inicial</Link>
+                    </li>
+                    <li>
+                        <Link to="/sobre">Sobre</Link>
+                    </li>
+                    <li>
+                        <Link to="/noticias">Curiosidades</Link>
+                    </li>
+                    <li>
+                        <Link to="/contato">Contato</Link>
+                    </li>
                 </ul>
             </nav>
         </header>
