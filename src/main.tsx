@@ -21,7 +21,7 @@ const router = createBrowserRouter([
        <Main/>
        <Trabalhos/>
        <Footer/>
-       <Contato/>
+       
       
       </>,
   },
